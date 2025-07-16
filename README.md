@@ -1,4 +1,6 @@
-# Interacción Humano-Computadora
+# Informa-Tren
+
+
 
 ## Integrantes
 
@@ -8,5 +10,3 @@
   <li>Ceballos Pérez Andrea </li>
   <li>Kuh Esquivel Mauro Arif </li>
 </ul>
-
-<img src="/media/Foto_Josueh.jpg" height="180"/> <img src="/media/Foto_Andrea.jpg" height="180"/> <img src="/media/Foto_Mariano.jpeg" height="180"/> <img src="/media/Foto_Mauro.jpg" height="180"/>
