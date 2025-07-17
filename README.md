@@ -38,6 +38,8 @@ Se aplicaron distintas etapas y técnicas del **Diseño Centrado en el Usuario (
 - Se observó una alta satisfacción, eficiencia y efectividad durante las pruebas.
 - El sistema tiene un alto potencial para escalar a una implementación real.
 
+## [Prototipo](https://www.figma.com/design/O480rS7b7qlYNXq2nBf3ou/Informa-Tren?node-id=0-1&t=6Ga6wbOrmEOxnkZ9-1)
+
 
 ---
 
